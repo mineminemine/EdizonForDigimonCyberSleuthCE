@@ -92,8 +92,10 @@ def setDummyValue(value):
     elif type == "digiconvert":
         value -= 1
         digiconvert_slot = value
-    elif type == "digiconvert_all":
-        setDigiConvertAll()
+    elif type == "digiconvert_all_cs":
+        setDigiConvertAll("cs")
+    elif type == "digiconvert_all_hm":
+        setDigiConvertAll("hm")
     elif type == "fieldguide":
         value -= 1
         fieldguide_slot = value
