@@ -1,7 +1,7 @@
 # Edizon Script/Config Files For Digimon Cyber Sleuth CE
 
 Script/config files to edit save files for the game on Nintendo Switch
-Currently **only supports Cyber Sleuth** and not Hacker's Memory
+Supports both Cyber Sleuth and Hacker's Memory
 
 ## Remember to make backups before editing!
 
@@ -10,7 +10,7 @@ Currently **only supports Cyber Sleuth** and not Hacker's Memory
 - [x] Party Memory
 - [x] Field Guide
 - [x] DigiConvert
-- [ ] Inventory
+- [x] Inventory (only 'obtain all item' option)
 - [ ] Digimon
 
 ### Usage
