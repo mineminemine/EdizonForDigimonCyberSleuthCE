@@ -1,6 +1,7 @@
 # Edizon Script/Config Files For Digimon Cyber Sleuth CE
 
 Script/config files to edit save files for the game on Nintendo Switch
+
 Supports both Cyber Sleuth and Hacker's Memory
 
 ## Remember to make backups before editing!
@@ -20,3 +21,7 @@ Supports both Cyber Sleuth and Hacker's Memory
 * Open Edizon on your Switch, load your save file and edit!
 
 Big thanks to the people over at [GBATemp](https://gbatemp.net/threads/digimon-cyber-sleuth-complete-collection-save-editor.550647/) for figuring out the save structure
+* AnalogMan
+* Green Mii
+* omega7
+* supermariorick
